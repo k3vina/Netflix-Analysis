@@ -89,8 +89,8 @@ The four views are combined into one dashboard with a **Release Year** filter ap
 1. Download the packaged workbook (`.twbx`) or open the Tableau Public link below.
 2. If opening a `.twb`, point Tableau to `netflix_movies_detailed_up_to_2025.csv` when prompted.
 
-**Tableau Public link:** _add your link here_
-
+**Tableau Public link:**
+https://public.tableau.com/app/profile/kevina.jepkonga/viz/NetflixMoviesandTVShowsAnalysis_17942575266840/Dashboard?publish=yes
 ## Author
 
 Kevina Jepkong'a
