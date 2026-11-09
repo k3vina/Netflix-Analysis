@@ -93,4 +93,4 @@ The four views are combined into one dashboard with a **Release Year** filter ap
 
 ## Author
 
-_Your name_
+Kevina Jepkong'a
